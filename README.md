@@ -47,3 +47,12 @@ To run the code in this repository, you'll need to install the necessary Python 
 
    ```bash
    git clone https://github.com/harsh-borse-7/Web_Scraping.git
+   
+## Screenshots
+
+![Screenshot1](News%20Scraping/Screenshots/Screenshot_1.png)
+
+![Screenshot2](News%20Scraping/Screenshots/Screenshot_2.png)
+
+![Screenshot3](News%20Scraping/Screenshots/Screenshot_3.png)
+
